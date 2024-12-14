@@ -1,5 +1,7 @@
 # Color and Text Formatting Codes
 
+esc = `\e` = `\x1b` = `\033`
+
 ### Text Colors
 - **BLACK** = `\033[30m`
 - **RED** = `\033[31m`
